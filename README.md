@@ -1,10 +1,19 @@
-Kotlin Variable Printer
-This repository contains a Kotlin file that demonstrates the declaration and usage of variables. It also includes a simple print operation to display the values of these variables in the console.
+This project contains solutions to various homework tasks written in Kotlin. Each task is implemented as a function within the Homework2Functions class, and a main function demonstrates the usage of these methods.
 
-Features:
 
--Demonstrates variable declaration in Kotlin.
+The project provides solutions for:
 
--Shows how to print variables to the console.
+-Calculating Interior Angles of Polygons
 
--Provides a basic structure for Kotlin beginners to understand variable usage.
+-Calculating Wages Based on Work Hours
+
+-Calculating Parking Fees
+
+-Converting Kilometers to Miles
+
+-Calculating the Area of a Rectangle
+
+-Calculating Factorials
+
+-Counting 'E' Letters in a Word
+
